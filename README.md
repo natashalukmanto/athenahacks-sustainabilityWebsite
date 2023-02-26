@@ -3,7 +3,7 @@
 
 In this project, we made a website that promotes sustainability. You will find:
 
-> Recyle Center♻️
+> Recyle Center♻️ \n
 A feature of the website that educate you how to recyle different recylable materials, such as:
 - Glass
 - Compost 
@@ -11,11 +11,11 @@ A feature of the website that educate you how to recyle different recylable mate
 - Aluminum
 - Batteries
 
-> Shop
-A feature that promotes eco-friendly business👩🏻‍💼.
+> Shop \n
+> A feature that promotes eco-friendly business👩🏻‍💼.
 
-> Donate
+> Donate \n
 A series of donation opportunities to get rid of old blankets, clothing, or other household items to people in need🙌🏻.
 
-> Blog
+> Blog \n
 An educational information posts that tells you how to be a better friend for our earth🌱!
