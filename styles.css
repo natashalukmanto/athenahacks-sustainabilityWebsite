@@ -1,10 +1,10 @@
 /* Dropdown Button */
 .dropbtn {
-  background-color: #000;
+  background-color: #DAE2B6;
   color: white;
   padding: 16px;
   font-size: 16px;
-  border: none;
+  border-radius: 50px;
 }
 
 /* The container <div> - needed to position the dropdown content */
@@ -43,7 +43,7 @@
 .dropdown:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
+.dropdown:hover .dropbtn {background-color: #CCD6A6;}
 
 .recyle-center {
   display: flex;
