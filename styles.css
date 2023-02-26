@@ -97,7 +97,8 @@
 }
 
 .blog-desc {
-  padding-bottom: 30px;
+  padding: 30px;
+  border: 2px solid #3e8e41;
 }
 
 footer {
